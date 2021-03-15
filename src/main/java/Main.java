@@ -1,5 +1,5 @@
-public class MainClass {
-    public MainClass(){
+public class Main {
+    public Main(){
 
     }
 
