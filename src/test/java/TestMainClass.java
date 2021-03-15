@@ -14,9 +14,9 @@ public class TestMainClass {
     public void test_circle_area() {
         assertEquals(50,st.circle_area(4));
     }
-    //New test case but failing case
+    //New test case but passed case
     public void test_circle_area1() {
-        assertEquals(50,st.circle_area(3));
+        assertEquals(28,st.circle_area(3));
     }
 
 
