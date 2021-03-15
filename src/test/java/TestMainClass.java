@@ -17,7 +17,7 @@ public class TestMainClass {
 
 
     public void test_rectangle_area() {
-        assertEquals(25,st.rectangle_area(4,5));
+        assertEquals(20,st.rectangle_area(4,5));
     }
 
 
