@@ -13,7 +13,7 @@ public class TestMainClass {
     //test by varma
     @Test
     public void test_circle_area() {
-        assertEquals(50, st.circle_area(4));
+        assertEquals(5, st.circle_area(4));
     }
 
     //New test case but passed case
