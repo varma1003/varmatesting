@@ -19,6 +19,6 @@ public class TestMainClass {
 
     @Test
     public void test_triangle_area() {
-        assertEquals(10, st.triangle_area(4, 5));
+        assertEquals(10, st.triangle_area(5, 5));
     }
 }
