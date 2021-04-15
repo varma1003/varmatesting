@@ -22,10 +22,6 @@ public class TestMainClass {
         assertEquals(28, st.circle_area(3));
     }
 
-    @Test
-    public void test_rectangle_area() {
-        assertEquals(20, st.rectangle_area(4, 5));
-    }
 
 
 
