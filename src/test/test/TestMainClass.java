@@ -21,4 +21,9 @@ public class TestMainClass {
     public void test_triangle_area() {
         assertEquals(12, st.triangle_area(5, 5));
     }
+
+    @Test
+    public void test_area(){
+        assertEquals(12, st.circle_area(3));
+    }
 }
