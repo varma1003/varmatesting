@@ -12,4 +12,13 @@ public class TestMainClass {
 
 
 
+    @Test
+    public void test_rectangle_area() {
+        assertEquals(20, st.rectangle_area(4, 5));
+    }
+
+    @Test
+    public void test_area(){
+        assertEquals(12, st.circle_area(3));
+    }
 }
