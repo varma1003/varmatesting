@@ -10,7 +10,4 @@ public class TestMainClass {
         st = new Main();
     }
 
-
-
-
 }
