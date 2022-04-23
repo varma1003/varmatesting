@@ -1,7 +1,4 @@
 public class Main {
-    public Main(){
-
-    }
 
     public int circle_area(int r){
         double c_area = r * r * 3.14;
