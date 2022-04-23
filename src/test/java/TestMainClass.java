@@ -32,8 +32,7 @@ public class TestMainClass {
     public void integration_test1(){
         assertEquals(1256,st.circle_area(st.rectangle_area(4,5)));
     }
-    //@Test
-    //public void integration_test2(){
-        //assertEquals(144,st.triangle_area(st.rectangle_area(5,5),st.circle_area(3)));
-    //}
+
+    @Test
+    public void integration_test2(){assertEquals(144,st.triangle_area(st.rectangle_area(5,5),st.circle_area(3)));}
 }
