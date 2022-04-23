@@ -34,6 +34,6 @@ public class TestMainClass {
     }
     @Test
     public void integration_test2(){
-        assertEquals(144,st.rectangle_area(st.triangle_area(5,5),st.circle_area(3)));
+        assertEquals(144,st.triangle_area(st.rectangle_area(5,5),st.circle_area(3)));
     }
 }
