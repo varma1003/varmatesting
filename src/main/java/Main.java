@@ -5,7 +5,6 @@ public class Main {
     }
 
     public int rectangle_area(int h, int l){
-        double r_area = h * l;
         return 0;
     }
 

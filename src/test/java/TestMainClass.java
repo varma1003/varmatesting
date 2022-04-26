@@ -3,12 +3,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class TestMainClass {
-    public static Main st;
-
-    @BeforeClass
-    public static void setup() {
-        st = new Main();
-    }
+    Main st = new Main();
 
     @Test
     public void test_rectangle_area() {
