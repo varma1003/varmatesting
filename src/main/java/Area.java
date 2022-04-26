@@ -13,3 +13,4 @@ public class Area {
     }
 }
 
+//pusing the code with wrong functionality and right test cases...
