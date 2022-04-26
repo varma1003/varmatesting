@@ -3,7 +3,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class TestMainClass {
-    private static Main st;
+    public static Main st;
 
     @BeforeClass
     public static void setup() {
