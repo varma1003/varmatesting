@@ -25,7 +25,7 @@ public class TestMainClass {
         assertEquals(28, st.circle_area(3));
     }
 
-    //Integration testss
+    //Integration tests
     @Test
     public void integration_test1(){
         assertEquals(1256,st.circle_area(st.rectangle_area(4,5)));
