@@ -3,6 +3,7 @@ import org.junit.Test;
 
 public class TestMainClass {
     Area st = new Area();
+
     @Test
     public void test_rectangle_area() {
         assertEquals(20, st.rectangle_area(4, 5));
