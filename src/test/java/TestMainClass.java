@@ -3,7 +3,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 public class TestMainClass {
-    Main st = new Main();
+    Area st = new Area();
 
     @Test
     public void test_rectangle_area() {

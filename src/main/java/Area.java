@@ -1,4 +1,4 @@
-public class Main {
+public class Area {
 
     public int circle_area(int r){
         return 0;
